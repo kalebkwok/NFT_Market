@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kalebkwok/NowCoderBlog">
-    <img src="src/logo512.png" alt="Logo" width="80" height="80">
+    <img src="src/logo512.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">NowCoder Blog</h3>
@@ -128,6 +128,6 @@ Don't forget to give the project a star! Thanks again!
 
 Kaleb Guo-  - kalebguo@gmail.com
 
-Project Link: [https://github.com/kalebkwok/Jobtracker](https://github.com/kalebkwok/Jobtracker)
+Project Link: [https://github.com/kalebkwok/Jobtracker](https://github.com/kalebkwok/NowCoderBlog)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
