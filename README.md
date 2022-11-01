@@ -128,6 +128,6 @@ Don't forget to give the project a star! Thanks again!
 
 Kaleb Guo-  - kalebguo@gmail.com
 
-Project Link: [https://github.com/kalebkwok/Jobtracker](https://github.com/kalebkwok/NowCoderBlog)
+Project Link: [https://github.com/kalebkwok/NowCoderBlog](https://github.com/kalebkwok/NowCoderBlog)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
